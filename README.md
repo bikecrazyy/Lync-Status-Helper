@@ -1,0 +1,1 @@
+# Lync-Status-Helper
