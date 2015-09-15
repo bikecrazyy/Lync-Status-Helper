@@ -1,0 +1,27 @@
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\bin\Release\Lync Status Helper.exe.config
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\bin\Release\Lync Status Helper.exe
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\bin\Release\Lync Status Helper.pdb
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\MainWindow.g.cs
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\App.g.cs
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\Lync Status Helper_MarkupCompile.cache
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\Lync Status Helper_MarkupCompile.lref
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\MainWindow.baml
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\Lync Status Helper.g.resources
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\Lync_Status_Helper.Properties.Resources.resources
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\Lync Status Helper.csproj.GenerateResource.Cache
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\Lync Status Helper.exe
+C:\Users\Overkilll\Documents\Visual Studio 2015\Projects\Lync Status Helper\Lync Status Helper\obj\Release\Lync Status Helper.pdb
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\bin\Release\Lync Status Helper.exe.config
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\Lync Status Helper.exe
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\Lync Status Helper.pdb
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\bin\Release\Lync Status Helper.exe
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\bin\Release\Lync Status Helper.pdb
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\Lync Status Helper.csprojResolveAssemblyReference.cache
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\MainWindow.g.cs
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\App.g.cs
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\Lync Status Helper_MarkupCompile.cache
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\Lync Status Helper_MarkupCompile.lref
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\MainWindow.baml
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\Lync Status Helper.g.resources
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\Lync_Status_Helper.Properties.Resources.resources
+C:\Users\2014145\Desktop\New folder (2)\Lync Status Helper\obj\Release\Lync Status Helper.csproj.GenerateResource.Cache
